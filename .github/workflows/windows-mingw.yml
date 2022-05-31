@@ -2,7 +2,7 @@ name: Windows MinG
 on: 
   push:
     paths:
-       - '*.pro'
+      - '*.pro'
       - 'converter/**'
       - 'debian/**'
       - 'icons/**'
