@@ -39,7 +39,7 @@ jobs:
     env:
       targetName: MystiQ.exe
       qt_arch: win64_mingw
-      qt_ver: 5.10
+      qt_ver: 5.15.2
       qt_tools: 'tools_mingw90,9.0.0-1-202203221220,qt.tools.win64_mingw900'
       qt_tools_mingw_install: mingw1120_64
     steps:
